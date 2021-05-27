@@ -1,0 +1,17 @@
+:root{
+  --font-light: #808080;
+  --primary-color: #2D06FF;
+}
+.text{
+
+ font-style: italic;
+   color: var(--primary-color);
+ font-size: 30px;
+border-radius: 20px;
+width: 100%;
+    background: #06F2FF;
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.home{color: #ff2855;}

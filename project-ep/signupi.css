@@ -1,0 +1,83 @@
+*{
+	font-family: cambria, candara, calibri, ClearType;
+}
+
+.header{
+	text-align: center;
+}
+
+.section{
+	text-align: center;
+padding:24px 350px;
+}
+
+
+.form{
+	box-sizing: border-circle;
+	border: 0px solid;
+	background-image:url(vijay4.jpeg);
+}
+.footer {
+  padding: 0.2px;
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: lightsteelblue;
+  color: black;
+  text-align: center;
+}
+
+.text{
+  width: 30%;
+  padding: 12px 20px;
+  margin: 10px 5px 10px 5px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.submit, .reset {
+  width: 20%;
+  background-color: #66aacc;
+  color: white;
+  padding: 10px 10px;
+  margin: 5px 2px 5px 2px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit:hover, .reset:hover {
+  background-color: #4b7093;
+}
+
+.div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 10px 10px;
+}
+
+.div-p{
+	text-align: center;
+	background-color: #99bbcc;
+	width: 50%;
+	margin: 10;
+	color: aquawhite;
+	padding: 0px 0px;
+}
+
+.hlink{
+	text-decoration: none;
+}
+body {
+  background-image:url(vijay3.jpeg);
+background-size:cover;
+background-attachment:fixed;}
+.p{
+color:white;
+
+}
+a{
+color:red;}
